@@ -1,0 +1,16 @@
+**What is it**
+
+Python indicator to start scripts in one click
+Copy file "deskop" to /usr/local/bin/
+
+**How to install**
+This scripts will open *.desktop files
+
+# cp deskopen /usr/local/bin
+# chmod +x /usr/local/bin/deskopen
+
+** run indicator **
+** You need python2.7 or python3 to run this indicator **
+# python ind.py
+
+
