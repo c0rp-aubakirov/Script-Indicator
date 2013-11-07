@@ -1,9 +1,8 @@
 **What is it**
-
-Python indicator to start scripts in one click
-Copy file "deskopen" to /usr/local/bin/
+Ubuntu indicator to start scripts in one click
 
 **How to install**
+Copy file "deskopen" to /usr/local/bin/
 This scripts will open *.desktop files
 
 # cp deskopen /usr/local/bin
@@ -11,7 +10,7 @@ This scripts will open *.desktop files
 
 ** run indicator **
 ** You need python2.7 or python3 to run this indicator **
-# python ind.py
 
+# python ind.py
 
 ** To modify list on known scripts add them to file ex_list**
