@@ -14,3 +14,4 @@ This scripts will open *.desktop files
 # python ind.py
 
 
+** To modify list on known scripts add them to file ex_list**
