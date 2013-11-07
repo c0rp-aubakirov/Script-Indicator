@@ -1,7 +1,7 @@
 **What is it**
 
 Python indicator to start scripts in one click
-Copy file "deskop" to /usr/local/bin/
+Copy file "deskopen" to /usr/local/bin/
 
 **How to install**
 This scripts will open *.desktop files
