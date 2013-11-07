@@ -15,7 +15,6 @@ logging.basicConfig(level=logging.DEBUG,
                     datefmt='%m-%d %H:%M',
                     filename='indicator.log')
 
-
 def menuitem_response(w, optionName):
     logging.info("Executing: " + optionName)
     try:
@@ -89,6 +88,7 @@ if __name__ == "__main__":
                                      appindicator.IndicatorCategory.OTHER)
     ind.set_status(appindicator.IndicatorStatus.ACTIVE)
     ind.set_attention_icon("indicator-messages-new")
+    ind.set_icon("cab_view")
     # create a menu
     menu = gtk.Menu()
     # create some drop down options
